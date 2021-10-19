@@ -29,3 +29,7 @@ if (age < 18) {
 ticketCost = ticketCost.toFixed(2)
 
 alert(`You fare will cost you £`+ticketCost);
+
+console.log (ticketCost);
+console.log (age);
+console.log (distance);
