@@ -14,9 +14,9 @@ function ticket() {
         distance = 100
     } else if (destination === "B") {
         distance = 200
-    } else if (destination == "C") {
+    } else if (destination === "C") {
         distance = 300
-    } else if (destination == "D") {
+    } else if (destination === "D") {
         distance = 400
     };
     console.log (distance);
